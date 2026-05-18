@@ -1,18 +1,4 @@
-/*
- * main.cpp — PuzzleChallenge / GameHub Entry Point
- * Course: CSC-213 (Object Oriented Programming)
- *
- * Demonstrates polymorphism: a base class Game pointer is used to randomly
- * select and launch one of multiple derived game classes at runtime.
- *
- * Features:
- *   - Random game selection using a Game* array (polymorphism)
- *   - User can keep playing (re-randomizes each round) or quit
- *   - Displays cumulative scores from all sessions
- *
- * AI Disclosure: Code structure and logic written with assistance from Claude (Anthropic).
- *                All code has been reviewed and understood by the submitting student.
- */
+
 
 #include <iostream>
 #include <cstdlib>
