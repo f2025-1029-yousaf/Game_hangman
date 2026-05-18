@@ -1,16 +1,6 @@
 #ifndef HANGMAN_H
 #define HANGMAN_H
 
-/*
- * Hangman.h — Derived Game class for the Hangman game
- * Course: CSC-213 (Object Oriented Programming)
- * Description: Player guesses letters to uncover a hidden word within limited attempts.
- *              Word list is loaded from "words.txt" for better design (file handling / composition).
- *              Tracks per-session score (words solved).
- *
- * AI Disclosure: Code structure and logic written with assistance from Claude (Anthropic).
- *                All code has been reviewed and understood by the submitting student.
- */
 
 #include "Game.h"
 #include <iostream>
